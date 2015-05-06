@@ -51,22 +51,22 @@ static layout_t layout PROGMEM = {
        K,    nop,
 // left hand ...... ......... ......... ......... ......... ......... .........
    equal,        1,        2,        3,        4,        5,      esc,
-     tab,        q,        w,        e,        r,        t,   lpu2l2,
- bkslash,        a,        s,        d,        f,        g,
+ bkslash,        q,        w,        e,        r,        t,   lpu2l2,
+     tab,        a,        s,        d,        f,        g,
 shL2kcap,        z,        x,        c,        v,        b, lpupo2l2,
-    guiL,    grave,  bkslash,   arrowL,   arrowR,
-                                                               ctrlL,     altL,
-                                                       nop,      nop,     home,
-                                                        bs,      del,      end,
+    guiL,    grave,  bkslash,       F4,     altL,
+                                                                home,      end,
+                                                       nop,      nop,     altL,
+                                                        bs,      del,    ctrlL,
 // right hand ..... ......... ......... ......... ......... ......... .........
             lpu1l1,        6,        7,        8,        9,        0,     dash,
              brktL,        y,        u,        i,        o,        p,    brktR,
                            h,        j,        k,        l,  semicol,    quote,
           lpupo2l2,        n,        m,    comma,   period,    slash, shR2kcap,
                                 arrowL,   arrowD,   arrowU,   arrowR,     guiR,
-    altR,    ctrlR,
-   pageU,      nop,      nop,
-   pageD,    enter,    space  ),
+  pageU,    pageD,
+   altR,      nop,         nop,
+  ctrlL,    enter,    space  ),
 
 // ............................................................................
 
