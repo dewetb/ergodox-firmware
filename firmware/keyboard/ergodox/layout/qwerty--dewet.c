@@ -54,7 +54,7 @@ static layout_t layout PROGMEM = {
  bkslash,        q,        w,        e,        r,        t,   lpu2l2,
      tab,        a,        s,        d,        f,        g,
 shL2kcap,        z,        x,        c,        v,        b, lpupo2l2,
-    guiL,    grave,  bkslash,   arrowL,   arrowR,
+    guiL,    grave,  bkslash,       F4,     altL,
                                                                 home,      end,
                                                        nop,      nop,     altL,
                                                         bs,      del,    ctrlL,
@@ -66,7 +66,7 @@ shL2kcap,        z,        x,        c,        v,        b, lpupo2l2,
                                 arrowL,   arrowD,   arrowU,   arrowR,     guiR,
   pageU,    pageD,
    altR,      nop,         nop,
-   altL,    enter,    space  ),
+  ctrlL,    enter,    space  ),
 
 // ............................................................................
 
