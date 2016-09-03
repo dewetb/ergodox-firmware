@@ -70,19 +70,19 @@ KB_MATRIX_LAYER(
 	KEY_Backslash_Pipe,	KEY_q_Q,	KEY_w_W,	KEY_e_E,	KEY_r_R,	KEY_t_T,	1,	
 	KEY_Tab,	KEY_a_A,	KEY_s_S,	KEY_d_D,	KEY_f_F,	KEY_g_G,	
 	KEY_LeftShift,	KEY_z_Z,	KEY_x_X,	KEY_c_C,	KEY_v_V,	KEY_b_B,	1,	
-	KEY_LeftGUI,	KEY_GraveAccent_Tilde,	KEY_Backslash_Pipe,	KEY_LeftArrow,	KEY_RightArrow,	
+	KEY_LeftControl,	KEY_GraveAccent_Tilde,	KEY_Backslash_Pipe,	KEY_LeftArrow,	KEY_RightArrow,	
 	KEY_Home,	KEY_End,	
 	0,	0,	KEY_LeftAlt,	
-	KEY_DeleteBackspace,	KEY_DeleteForward,	KEY_LeftControl,	
+	KEY_DeleteBackspace,	KEY_DeleteForward,	KEY_LeftGUI,
 	// right hand
 	2,	KEY_6_Caret,	KEY_7_Ampersand,	KEY_8_Asterisk,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	KEY_Dash_Underscore,	
 	KEY_LeftBracket_LeftBrace,	KEY_y_Y,	KEY_u_U,	KEY_i_I,	KEY_o_O,	KEY_p_P,	KEY_RightBracket_RightBrace,	
 	KEY_h_H,	KEY_j_J,	KEY_k_K,	KEY_l_L,	KEY_Semicolon_Colon,	KEY_SingleQuote_DoubleQuote,	
 	1,	KEY_n_N,	KEY_m_M,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_Slash_Question,	KEY_RightShift,	
-	KEY_LeftArrow,	KEY_DownArrow,	KEY_UpArrow,	KEY_RightArrow,	KEY_RightGUI,	
+	KEY_LeftArrow,	KEY_DownArrow,	KEY_UpArrow,	KEY_RightArrow,	KEY_RightControl,	
 	KEY_PageUp,	KEY_PageDown,	
 	KEY_LeftAlt,	0,	0,	
-	KEY_LeftControl,	KEY_ReturnEnter,	KEY_Spacebar	
+	KEY_RightGUI,	KEY_ReturnEnter,	KEY_Spacebar	
 ),
 // LAYER 1
 KB_MATRIX_LAYER(
